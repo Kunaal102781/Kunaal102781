@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kunal Jain
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning WEB DEV
+- 🌱 I’m currently learning APP DEV
 - 💞️ I’m looking to collaborate on any PRoduct based Startup
 - 📫 How to reach me Kunaaljain465@gmail.com
 - 😄 Pronouns: He/him
